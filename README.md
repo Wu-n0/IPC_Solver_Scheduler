@@ -14,14 +14,4 @@ This project focuses on efficiently computing the sum of "N" integers using mult
 
 - **Efficiency Analysis:** The project analyzes the efficiency of the implemented process scheduling algorithms by comparing the turnaround time and waiting time of the processes. These metrics provide insights into the effectiveness of the scheduling algorithms in terms of process execution and resource allocation.
 
-## Usage
-
-1. Clone the repository: `git clone https://github.com/your-username/repo-name.git`
-2. Compile the C program using a C compiler.
-3. Run the executable binary file.
-4. Follow the instructions displayed on the console to input the number of integers and other necessary parameters.
-5. The program will compute the sum of the provided integers using multithreading and display the results.
-6. Additionally, it will execute the processes using Round Robin and Pre-emptive Priority Scheduling algorithms, comparing their efficiency based on turnaround time and waiting time.
-
-Feel free to explore the source code and make any modifications as per your requirements.
 
